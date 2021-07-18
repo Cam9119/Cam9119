@@ -4,10 +4,10 @@
       - How Privacy Coins work
       -  FOSS
 - 🌱 I’m currently learning ...
-      - Python
-      - C
-      - Perl5
-      - C++
+       Python
+       C
+       Perl5
+       C++
 - 💞️ I’m looking to collaborate on ...
       - Nothing so far
 - 📫 How to reach me ...
