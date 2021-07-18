@@ -1,15 +1,7 @@
  - 👋 Hi, I’m @Cam9119
-- 👀 I’m interested in:
-       How Operating systems work,
-       How Privacy Coins work,
-       FOSS
-- 🌱 I’m currently learning:
-       Python,
-       C,
-       Perl5,
-       C++
-- 💞️ I’m looking to collaborate on:
-       Nothing so far
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
       - camgithub@vivaldi.net
 
